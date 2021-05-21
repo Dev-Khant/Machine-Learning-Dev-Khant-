@@ -1,5 +1,5 @@
 numpy==1.18.3
-tensorflow==2.2.0
+tensorflow==2.5.0
 opencv-python==4.2.0.34
 flask==1.1.2
 werkzeug==1.0.1
